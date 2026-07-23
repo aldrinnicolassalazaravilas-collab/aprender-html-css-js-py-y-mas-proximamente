@@ -27,8 +27,8 @@
     { "clase": 22, "tema": "Próximos pasos",                     "progreso": 0, "completada": false }
   ],
   "progreso_general": {
-    "html": 60,
-    "css": 20,
+    "html": 75,
+    "css": 25,
     "js": 10,
     "json": 0,
     "python": 0,
