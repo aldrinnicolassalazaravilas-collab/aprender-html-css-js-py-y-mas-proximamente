@@ -3,7 +3,7 @@
   "curso": "Desarrollo Web Completo",
   "fecha_inicio": "2026-07-23",
   "clases": [
-    { "clase": 1,  "tema": "Cómo funciona la web",                "progreso": 0, "completada": false },
+    { "clase": 1,  "tema": "Cómo funciona la web",                "progreso": 100, "completada": true },
     { "clase": 2,  "tema": "HTML esencial",                      "progreso": 100, "completada": true },
     { "clase": 3,  "tema": "HTML semántico",                     "progreso": 0, "completada": false },
     { "clase": 4,  "tema": "CSS desde cero",                     "progreso": 0, "completada": false },
