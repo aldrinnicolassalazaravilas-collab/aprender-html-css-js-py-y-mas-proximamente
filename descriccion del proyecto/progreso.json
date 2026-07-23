@@ -4,7 +4,7 @@
   "fecha_inicio": "2026-07-23",
   "clases": [
     { "clase": 1,  "tema": "Cómo funciona la web",                "progreso": 100, "completada": true },
-    { "clase": 2,  "tema": "HTML esencial",                      "progreso": 100, "completada": true },
+    { "clase": 2,  "tema": "HTML esencial",                      "progreso": 100, "completada": true, "nota": 8, "comentario": "Buena estructura, viewport sin content" },
     { "clase": 3,  "tema": "HTML semántico",                     "progreso": 0, "completada": false },
     { "clase": 4,  "tema": "CSS desde cero",                     "progreso": 0, "completada": false },
     { "clase": 5,  "tema": "CSS: Modelo de caja",               "progreso": 0, "completada": false },
