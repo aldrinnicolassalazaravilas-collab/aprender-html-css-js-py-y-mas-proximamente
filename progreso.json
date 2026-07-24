@@ -6,7 +6,7 @@
     { "clase": 1,  "tema": "Cómo funciona la web",                "progreso": 100, "completada": true },
     { "clase": 2,  "tema": "HTML esencial",                      "progreso": 100, "completada": true, "nota": 8, "comentario": "Buena estructura, viewport sin content" },
     { "clase": 3,  "tema": "HTML semántico",                     "progreso": 100, "completada": true, "nota": 9, "comentario": "HTML semántico + CSS básico. Estructura corregida." },
-    { "clase": 4,  "tema": "CSS desde cero",                     "progreso": 0, "completada": false },
+    { "clase": 4,  "tema": "CSS desde cero",                     "progreso": 15, "completada": false, "nota": 8, "comentario": "Selectores, sintaxis CSS, actividad y quiz" },
     { "clase": 5,  "tema": "CSS: Modelo de caja",               "progreso": 0, "completada": false },
     { "clase": 6,  "tema": "CSS: Flexbox",                       "progreso": 0, "completada": false },
     { "clase": 7,  "tema": "CSS: Grid",                          "progreso": 0, "completada": false },
@@ -27,8 +27,8 @@
     { "clase": 22, "tema": "Próximos pasos",                     "progreso": 0, "completada": false }
   ],
   "progreso_general": {
-    "html": 75,
-    "css": 25,
+    "html": 80,
+    "css": 40,
     "js": 10,
     "json": 0,
     "python": 0,
