@@ -7,12 +7,12 @@
 
 | HTML | CSS | JavaScript | JSON | Python | Flask | Java (visión) | Git |
 |------|-----|-----------|------|--------|-------|---------------|-----|
-| 75%  | 25% | 10%       | 0%   | 0%     | 0%    | 0%            | 0%  |
+| 80%  | 70% | 10%       | 0%   | 0%     | 0%    | 0%            | 0%  |
 
 ---
 
 ## CLASE 1 — Cómo funciona la web
-**Progreso:** ☐ No iniciada
+**Progreso:** ✅ Completada
 
 **Conceptos:**
 - ¿Qué es internet? Red de computadoras conectadas
@@ -45,7 +45,7 @@
 ---
 
 ## CLASE 3 — HTML semántico
-**Progreso:** ☐ No iniciada
+**Progreso:** ✅ Completada
 
 **Conceptos:**
 - `<header>`: cabecera del sitio o sección
@@ -62,7 +62,7 @@
 ---
 
 ## CLASE 4 — CSS desde cero
-**Progreso:** ☐ No iniciada
+**Progreso:** 🔄 En progreso (60%)
 
 **Conceptos:**
 - Formas de aplicar CSS: inline, interno (<style>), externo (.css)
@@ -78,7 +78,7 @@
 ---
 
 ## CLASE 5 — CSS: Modelo de caja (Box Model)
-**Progreso:** ☐ No iniciada
+**Progreso:** ✅ Completada
 
 **Conceptos:**
 - Toda etiqueta es una caja
@@ -95,7 +95,7 @@
 ---
 
 ## CLASE 6 — CSS: Flexbox
-**Progreso:** ☐ No iniciada
+**Progreso:** 🔄 En progreso (40%)
 
 **Conceptos:**
 - display: flex — activa flexbox en un contenedor
@@ -112,7 +112,7 @@
 ---
 
 ## CLASE 7 — CSS: Grid
-**Progreso:** ☐ No iniciada
+**Progreso:** 🔄 Recién iniciada
 
 **Conceptos:**
 - display: grid — activa CSS Grid
