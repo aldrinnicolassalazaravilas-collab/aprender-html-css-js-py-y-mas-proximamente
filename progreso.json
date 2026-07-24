@@ -8,7 +8,7 @@
     { "clase": 3,  "tema": "HTML semántico",                     "progreso": 100, "completada": true, "nota": 9, "comentario": "HTML semántico + CSS básico. Estructura corregida." },
     { "clase": 4,  "tema": "CSS desde cero",                     "progreso": 60, "completada": false, "nota": 9, "comentario": "Selectores, sintaxis, propiedades, activity 2, quiz 2" },
     { "clase": 5,  "tema": "CSS: Modelo de caja",               "progreso": 100, "completada": true, "nota": 8, "comentario": "Box model, border-box, actividad práctica" },
-    { "clase": 6,  "tema": "CSS: Flexbox",                       "progreso": 0, "completada": false },
+    { "clase": 6,  "tema": "CSS: Flexbox",                       "progreso": 40, "completada": false, "nota": 7, "comentario": "display:flex, justify-content, align-items. Actividad con gradientes" },
     { "clase": 7,  "tema": "CSS: Grid",                          "progreso": 0, "completada": false },
     { "clase": 8,  "tema": "CSS: Responsive Design",             "progreso": 0, "completada": false },
     { "clase": 9,  "tema": "JavaScript 1: Fundamentos",          "progreso": 0, "completada": false },
@@ -28,7 +28,7 @@
   ],
   "progreso_general": {
     "html": 80,
-    "css": 60,
+    "css": 70,
     "js": 10,
     "json": 0,
     "python": 0,

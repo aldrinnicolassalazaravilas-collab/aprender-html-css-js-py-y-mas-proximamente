@@ -1,0 +1,32 @@
+.caja1{
+    background: linear-gradient(rgb(0, 0, 0),rgb(243, 243, 243));
+    width: 250px;
+    height: 200px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 5px;
+   
+}
+.caja2{
+    background: linear-gradient(rgb(248, 3, 3),rgb(247, 101, 3));
+    width: 250px;
+    height: 200px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 5px;
+}
+.caja3{
+    background: linear-gradient(rgb(3, 178, 247),rgb(3, 184, 255));
+    width: 250px;
+    height: 200px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 5px;
+}
+.contenedor{
+    width: 900px;
+    height: 900px;
+    display: flex;
+    justify-content: flex-start ;
+    align-items: center;
+}
