@@ -1,5 +1,5 @@
 # GUÍA DE APRENDIZAJE COMPLETA
-## Instructor: AI · 22 Clases · De cero a proyecto web profesional
+## Instructor: AI · 23 Clases · De cero a proyecto web profesional
 
 ---
 
@@ -228,7 +228,24 @@
 
 ---
 
-## CLASE 14 — JSON
+## CLASE 14 — Canvas (dibujo con JS)
+**Progreso:** ☐ No iniciada
+
+**Conceptos:**
+- ¿Qué es `<canvas>`? Lienzo de dibujo en HTML
+- getContext('2d'): el pincel para dibujar
+- Dibujar rectángulos: fillRect(), strokeRect()
+- Dibujar círculos: arc()
+- Dibujar líneas: beginPath(), moveTo(), lineTo()
+- Colores y estilos: fillStyle, strokeStyle
+- Texto en canvas: fillText(), font
+- Limpiar el canvas: clearRect()
+- Animaciones básicas: requestAnimationFrame()
+- Proyecto: dibujar una figura interactiva
+
+---
+
+## CLASE 15 — JSON
 **Progreso:** ☐ No iniciada
 
 **Conceptos:**
@@ -245,7 +262,7 @@
 
 ---
 
-## CLASE 15 — Python 1: Fundamentos
+## CLASE 16 — Python 1: Fundamentos
 **Progreso:** ☐ No iniciada
 
 **Conceptos:**
@@ -262,7 +279,7 @@
 
 ---
 
-## CLASE 16 — Python 2: Estructuras de datos
+## CLASE 17 — Python 2: Estructuras de datos
 **Progreso:** ☐ No iniciada
 
 **Conceptos:**
@@ -279,7 +296,7 @@
 
 ---
 
-## CLASE 17 — Python 3: Avanzado
+## CLASE 18 — Python 3: Avanzado
 **Progreso:** ☐ No iniciada
 
 **Conceptos:**
@@ -296,7 +313,7 @@
 
 ---
 
-## CLASE 18 — Flask 1: Introducción
+## CLASE 19 — Flask 1: Introducción
 **Progreso:** ☐ No iniciada
 
 **Conceptos:**
@@ -313,7 +330,7 @@
 
 ---
 
-## CLASE 19 — Flask 2: Formularios y métodos
+## CLASE 20 — Flask 2: Formularios y métodos
 **Progreso:** ☐ No iniciada
 
 **Conceptos:**
@@ -330,7 +347,7 @@
 
 ---
 
-## CLASE 20 — Flask 3: Base de datos
+## CLASE 21 — Flask 3: Base de datos
 **Progreso:** ☐ No iniciada
 
 **Conceptos:**
@@ -347,7 +364,7 @@
 
 ---
 
-## CLASE 21 — Proyecto Final
+## CLASE 22 — Proyecto Final
 **Progreso:** ☐ No iniciada
 
 **Conceptos:**
@@ -364,7 +381,7 @@
 
 ---
 
-## CLASE 22 — Próximos pasos: lenguajes y tecnologías
+## CLASE 23 — Próximos pasos: lenguajes y tecnologías
 **Progreso:** ☐ No iniciada
 
 **Conceptos:**

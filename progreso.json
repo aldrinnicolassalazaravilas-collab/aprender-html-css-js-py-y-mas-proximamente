@@ -8,7 +8,7 @@
     { "clase": 3,  "tema": "HTML semántico",                     "progreso": 100, "completada": true, "nota": 9, "comentario": "HTML semántico + CSS básico. Estructura corregida." },
     { "clase": 4,  "tema": "CSS desde cero",                     "progreso": 60, "completada": false, "nota": 9, "comentario": "Selectores, sintaxis, propiedades, activity 2, quiz 2" },
     { "clase": 5,  "tema": "CSS: Modelo de caja",               "progreso": 100, "completada": true, "nota": 8, "comentario": "Box model, border-box, actividad práctica" },
-    { "clase": 6,  "tema": "CSS: Flexbox",                       "progreso": 40, "completada": false, "nota": 7, "comentario": "display:flex, justify-content, align-items. Actividad con gradientes" },
+    { "clase": 6,  "tema": "CSS: Flexbox",                       "progreso": 40, "completada": false, "nota": 7, "comentario": "display:flex, justify-content, align-items" },
     { "clase": 7,  "tema": "CSS: Grid",                          "progreso": 0, "completada": false },
     { "clase": 8,  "tema": "CSS: Responsive Design",             "progreso": 0, "completada": false },
     { "clase": 9,  "tema": "JavaScript 1: Fundamentos",          "progreso": 0, "completada": false },
@@ -16,15 +16,16 @@
     { "clase": 11, "tema": "JavaScript 3: Funciones y objetos",  "progreso": 0, "completada": false },
     { "clase": 12, "tema": "JavaScript 4: DOM y Eventos",        "progreso": 0, "completada": false },
     { "clase": 13, "tema": "JavaScript 5: Fetch y APIs",         "progreso": 0, "completada": false },
-    { "clase": 14, "tema": "JSON",                               "progreso": 0, "completada": false },
-    { "clase": 15, "tema": "Python 1: Fundamentos",              "progreso": 0, "completada": false },
-    { "clase": 16, "tema": "Python 2: Estructuras de datos",     "progreso": 0, "completada": false },
-    { "clase": 17, "tema": "Python 3: Avanzado",                 "progreso": 0, "completada": false },
-    { "clase": 18, "tema": "Flask 1: Introducción",              "progreso": 0, "completada": false },
-    { "clase": 19, "tema": "Flask 2: Formularios y métodos",     "progreso": 0, "completada": false },
-    { "clase": 20, "tema": "Flask 3: Base de datos",             "progreso": 0, "completada": false },
-    { "clase": 21, "tema": "Proyecto Final",                     "progreso": 0, "completada": false },
-    { "clase": 22, "tema": "Próximos pasos",                     "progreso": 0, "completada": false }
+    { "clase": 14, "tema": "Canvas (dibujo con JS)",             "progreso": 0, "completada": false },
+    { "clase": 15, "tema": "JSON",                               "progreso": 0, "completada": false },
+    { "clase": 16, "tema": "Python 1: Fundamentos",              "progreso": 0, "completada": false },
+    { "clase": 17, "tema": "Python 2: Estructuras de datos",     "progreso": 0, "completada": false },
+    { "clase": 18, "tema": "Python 3: Avanzado",                 "progreso": 0, "completada": false },
+    { "clase": 19, "tema": "Flask 1: Introducción",              "progreso": 0, "completada": false },
+    { "clase": 20, "tema": "Flask 2: Formularios y métodos",     "progreso": 0, "completada": false },
+    { "clase": 21, "tema": "Flask 3: Base de datos",             "progreso": 0, "completada": false },
+    { "clase": 22, "tema": "Proyecto Final",                     "progreso": 0, "completada": false },
+    { "clase": 23, "tema": "Próximos pasos",                     "progreso": 0, "completada": false }
   ],
   "progreso_general": {
     "html": 80,
@@ -33,6 +34,7 @@
     "json": 0,
     "python": 0,
     "flask": 0,
+    "canvas": 0,
     "java_prox": 0,
     "git": 0
   }
