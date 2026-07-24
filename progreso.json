@@ -6,7 +6,7 @@
     { "clase": 1,  "tema": "Cómo funciona la web",                "progreso": 100, "completada": true },
     { "clase": 2,  "tema": "HTML esencial",                      "progreso": 100, "completada": true, "nota": 8, "comentario": "Buena estructura, viewport sin content" },
     { "clase": 3,  "tema": "HTML semántico",                     "progreso": 100, "completada": true, "nota": 9, "comentario": "HTML semántico + CSS básico. Estructura corregida." },
-    { "clase": 4,  "tema": "CSS desde cero",                     "progreso": 60, "completada": false, "nota": 9, "comentario": "Selectores, sintaxis, propiedades, activity 2, quiz 2" },
+    { "clase": 4,  "tema": "CSS desde cero",                     "progreso": 100, "completada": true, "nota": 9, "comentario": "Selectores avanzados, herencia, especificidad, actividad 3" },
     { "clase": 5,  "tema": "CSS: Modelo de caja",               "progreso": 100, "completada": true, "nota": 8, "comentario": "Box model, border-box, actividad práctica" },
     { "clase": 6,  "tema": "CSS: Flexbox",                       "progreso": 40, "completada": false, "nota": 7, "comentario": "display:flex, justify-content, align-items" },
     { "clase": 7,  "tema": "CSS: Grid",                          "progreso": 0, "completada": false },

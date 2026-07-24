@@ -62,7 +62,7 @@
 ---
 
 ## CLASE 4 — CSS desde cero
-**Progreso:** 🔄 En progreso (60%)
+**Progreso:** ✅ Completada
 
 **Conceptos:**
 - Formas de aplicar CSS: inline, interno (<style>), externo (.css)
